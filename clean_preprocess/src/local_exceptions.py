@@ -1,0 +1,2 @@
+class CorruptedFields(Exception):
+    pass
